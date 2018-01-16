@@ -22,3 +22,9 @@ Run GifCombiner on them like so to get one nice big gif
 
 
 [required reading](https://en.wikisource.org/wiki/The_Rime_of_the_Ancyent_Marinere_(1798))
+
+**DEPENDENCIES**
+requests and imageio
+
+**TODO**
+see [TODO.md](./thisisalinkbuttowhere)
